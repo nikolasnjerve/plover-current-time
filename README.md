@@ -1,5 +1,5 @@
 # Current time
-### obs! dette er en fork direkte fra Emily sin Current time. jeg har endret python scriptet sånn at det skriver ut norsk dato og tid. For å få den til å virke må du laste ned. tzdata. for å gjøre det må du åpne Powershell og skrive "Pip install tzdata" så erstatter du current time filen i pluginen (gå inn i config  folderen via plover. Og finn den under Win 313/site packages..) med den som ligger her.
+### obs! dette er en fork direkte fra Emily sin Current time. jeg har endret python scriptet sånn at det skriver ut norsk dato og tid. For å få den til å virke må du laste ned. tzdata. for å gjøre det må du åpne Powershell og skrive "Pip install tzdata" så erstatter du current time filen i pluginen (gå inn i config  folderen via plover. Og finn den under `Plugins/Win/Python313/site-packages..`) med den som ligger her.
 
 # beskrivelse fra Emily
 > Plover plugin for inserting the current time in an `strftime()` format
