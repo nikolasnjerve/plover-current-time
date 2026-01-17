@@ -33,7 +33,7 @@ du kan definere hvilken stenografi "outline" du vil for dette, men du må følge
 |`%d`|	08|	Day of the month as a zero-padded decimal number.|
 |`%-d`|	8|	Day of the month as a decimal number. (Platform specific)|
 |`%b`|	Sep	| Month as locale’s abbreviated name.|
-|`%B`|	September|	|Month as locale’s full name.|
+|`%B`|	September|Month as locale’s full name.|
 |`%m`|	09	|Month as a zero-padded decimal number.|
 |`%-m`|	9	|Month as a decimal number. (Platform specific)|
 |`%y`|	13	|Year without century as a zero-padded decimal number.|
